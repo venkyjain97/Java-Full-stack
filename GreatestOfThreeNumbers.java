@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Biggest_Number 
+public class GreatestOfThreeNumbers 
 {
     public static void main(String[] args) 
     {
