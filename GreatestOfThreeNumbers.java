@@ -23,6 +23,5 @@ public class GreatestOfThreeNumbers
         {
             System.out.println("Largest number is:"+z);
         }
- 
     }
 }
