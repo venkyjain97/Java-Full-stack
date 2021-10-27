@@ -9,7 +9,6 @@ public class Calculate {
       int sub = a-b;
       int mul = a*b;
       int div = a/b;
-      
       System.out.println(add);
        System.out.println(sub);
         System.out.println(mul);
